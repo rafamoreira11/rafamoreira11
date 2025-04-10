@@ -17,7 +17,6 @@ Me chamo Rafael Moreira Lima, tenho 17 anos e sou natural de Sobral - CE. Conclu
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamoreira11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Moreira stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoreira11&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake.svg">
