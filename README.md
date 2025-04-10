@@ -10,6 +10,20 @@ Me chamo Rafael Moreira Lima, tenho 17 anos e sou natural de Sobral - CE. Conclu
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/rafamoreira11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamoreira11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rafael Moreira stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamoreira11&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafamoreira11/rafamoreira11/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
   
   ##
  
